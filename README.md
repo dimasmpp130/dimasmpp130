@@ -3,11 +3,10 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://youtu.be/Xjl90aDS0IA)
 
-Saya Seorang Penggemar Ilmu Komputer 👨‍💻, Saat Ini Di Tahun Sedang Di Universitas Suryakancana 👨‍🎓
+Saya Seorang Penggemar Ilmu Komputer 👨‍💻, Saat Ini Di Tahun Sedang Di Indonesia 🇮🇩
 
-- 🔭 Saya Sedang Mengerjakan Bot WhatsApp
 - 🤔 Menjelajahi Teknologi Baru Dan Mengembangkan Solusi Perangkat Lunak Dan Peretasan Cepat.
-- 🎓 Mempelajari Ilmu Komputer, Pemrograman Komputer, Dan Matematika.
+- 🎓 Mempelajari Ilmu Komputer, Pemrograman Komputer, Dan Lainnya.
 - 💼 Pengembang Android Dan Pengembang Web Front End.
 - 🌱 Penggemar Dalam Keamanan Cyber Dan Kecerdasan Buatan.
 - ✍️ Menonton Anime Dan Mencoba Tren Desain Terbaru Sebagai Hobi / Keramaian Samping.
@@ -33,10 +32,10 @@ Saya Seorang Penggemar Ilmu Komputer 👨‍💻, Saat Ini Di Tahun Sedang Di Un
 <h3> 🤝🏻  Terhubung Dengan Saya</h3>
 
 <p align="center">
-<a href="https://youtube.com/c/DimasMpp" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="50" /></a>  
-<a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new--v2.png" width="50" /></a>  
-<a href="https://wa.me/6287742052740" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/whatsapp.png" width="50" /></a>
-<a href="mailto:ini.dimasmpp.13@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png"  width="50" /></a>
+<a href="https://youtube.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="50" /></a>  
+<a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new--v2.png" width="50" /></a>  
+<a href="https://wa.me/62831" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/whatsapp.png" width="50" /></a>
+<a href="mailto:gmail@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png"  width="50" /></a>
 </p>
 
 <img src="https://imgur.com/rilHVxA.png"/>
