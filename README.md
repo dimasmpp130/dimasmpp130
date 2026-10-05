@@ -45,7 +45,7 @@ I'm interested in exploring new technologies, creating practical projects, and c
 ### Frameworks & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=android,flutter,bootstrap,firebase,mysql" alt="Frameworks and Technologies" />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,bootstrap,firebase,mysql" alt="Frameworks and Technologies" />
 </p>
 
 ### Tools
