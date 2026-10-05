@@ -1,246 +1,198 @@
-Iya wok 😭 maksudnya **README khusus Profile GitHub**, jadi repo-nya memang **`dimasmpp130/dimasmpp130`**. Ini gue kasih **full code `README.md`**, tinggal copas seluruhnya ke repo tersebut.
-
 ````md
-<h1 align="center">
-  Hi 👋, I'm Dimas
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dimasmpp130&label=Profile%20Views&color=7A7ADB&style=flat" alt="Profile Views" />
+# Hi, I'm Dimas 👋
+
+### Web Developer · Software Developer · Technology Enthusiast
+
+Building useful digital products, web tools, and experiments from Indonesia 🇮🇩
+
+<br>
+
+<a href="https://github.com/dimasmpp130">
+  <img src="https://img.shields.io/github/followers/dimasmpp130?label=Followers&style=flat&color=555" />
+</a>
+<a href="https://github.com/dimasmpp130?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View-555?style=flat" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm **Dimas**, a developer from Indonesia who enjoys building websites, web tools, and software projects.
+
+My main interests are **web development, software engineering, UI/UX, cybersecurity, and emerging technologies**.
+
+I enjoy taking an idea, turning it into something functional, and continuously improving it through experimentation.
+
+- 🌐 Building modern and lightweight web applications
+- ⚙️ Developing useful tools and small software projects
+- 🎨 Interested in clean UI/UX and responsive interfaces
+- 🧠 Exploring Artificial Intelligence and Cyber Security
+- 🚀 Learning new technologies through real-world projects
+- ☕ Powered by coffee and curiosity
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,dart" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,android,flutter,bootstrap" />
 </p>
 
-<p align="center">
-  <b>Web Developer • Software Enthusiast • Tech Explorer</b>
-</p>
+### Tools
 
-<p align="center">
-  Building things, exploring technology, and turning ideas into useful projects.
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,photoshop" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Featured Projects
 
-- 🇮🇩 I'm from Indonesia
-- 💻 Interested in software development and technology
-- 🌐 Focused on web development and web tools
-- 🔧 I enjoy creating useful and lightweight projects
-- 🛡️ Interested in Cyber Security and Artificial Intelligence
-- 🎨 Enjoy experimenting with modern UI/UX
-- 🎌 Anime enthusiast
-- ☕ Coffee is part of the development process
+### DIMZ Tools
+
+A collection of lightweight web tools and utilities built for everyday use.
+
+**Focus:** Web Development · API Integration · UI/UX · Performance
+
+<a href="https://github.com/dimasmpp130/dimz-wtf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimasmpp130&repo=dimz-wtf&hide_border=true&theme=transparent" />
+</a>
 
 ---
 
-## 🚀 What I Do
+## What I'm Working On
 
 ```text
 Web Development
-├── HTML
-├── CSS
-├── JavaScript
-├── Responsive Web Design
-└── Web Tools
+████████████████████░░  90%
 
-Programming
-├── JavaScript
-├── Python
-├── Java
-├── C++
-└── Dart
+JavaScript
+██████████████████░░░░  85%
 
-Tools & Platforms
-├── Git
-├── GitHub
-├── Vercel
-├── Visual Studio Code
-└── Android Studio
+UI / UX
+████████████████░░░░░░  75%
+
+Backend & APIs
+███████████████░░░░░░░  70%
+
+Cyber Security
+████████████░░░░░░░░░░  60%
+
+Artificial Intelligence
+██████████░░░░░░░░░░░░  50%
 ````
 
 ---
 
-## 🛠️ Tech Stack
+## GitHub Analytics
 
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,dart" />
-</p>
-
-### 🌐 Frameworks & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=android,flutter,bootstrap,vercel" />
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,photoshop" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dimasmpp130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent"
-    height="170"
-    alt="Dimas GitHub Stats"
-  />
+<div align="center">
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmpp130&layout=compact&hide_border=true&theme=transparent"
- height="170"
- alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api?username=dimasmpp130&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+height="170"
 />
 
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmpp130&layout=compact&hide_border=true&theme=transparent"
+height="170"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=dimasmpp130&hide_border=true&theme=transparent"
+alt="GitHub Streak"
+/>
+
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## Contribution Activity
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dimasmpp130&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
 
----
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=dimasmpp130&bg_color=ffffff00&color=555555&line=555555&point=111111&area=true&hide_border=true"
+width="100%"
+alt="Contribution Graph"
+/>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dimasmpp130&bg_color=ffffff00&color=7A7ADB&line=7A7ADB&point=2234AE&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+</div>
 
 ---
 
-## 📌 Featured Project
+## Currently Exploring
 
-<p align="center">
-  <a href="https://github.com/dimasmpp130/dimz-wtf">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dimasmpp130&repo=dimz-wtf&theme=transparent&hide_border=true"
-      alt="dimz-wtf"
-    />
-  </a>
-</p>
+| Area            | Focus                                      |
+| --------------- | ------------------------------------------ |
+| Web Development | Modern, responsive & lightweight websites  |
+| JavaScript      | Front-end applications & APIs              |
+| UI/UX           | Clean and intuitive interfaces             |
+| Cyber Security  | Web security & security fundamentals       |
+| AI              | Exploring practical AI applications        |
+| DevOps          | Deployment, hosting & serverless platforms |
 
 ---
 
-## 🌐 Connect With Me
+## Development Philosophy
 
-<p align="center">
+> **Build it. Break it. Learn from it. Improve it.**
+
+I believe the best way to learn technology is by actually building things.
+
+Every project doesn't have to be perfect.
+It just needs to teach you something new.
+
+---
+
+## Connect
+
+<div align="center">
 
 <a href="https://github.com/dimasmpp130">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://youtube.com/">
-  <img
-    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
-  />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</p>
+<a href="https://youtube.com/">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 💡 Currently
+<div align="center">
 
-<p align="center">
+### Thanks for stopping by.
 
-🧠 Learning new technologies <br>
-💻 Building web tools and projects <br>
-🤖 Exploring AI & Cyber Security <br>
-🎨 Improving UI/UX skills <br>
-🎌 Enjoying Anime <br>
-☕ Drinking Coffee
+If you find something interesting here, feel free to explore my repositories.
 
-</p>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=dimasmpp130&label=Profile%20Views&color=555555&style=flat" />
 
-## ⚡ A Little More About Me
-
-```javascript
-const dimas = {
-    name: "Dimas",
-    username: "dimasmpp130",
-    country: "Indonesia 🇮🇩",
-
-    interests: [
-        "Web Development",
-        "Software Development",
-        "Cyber Security",
-        "Artificial Intelligence",
-        "UI/UX"
-    ],
-
-    technologies: {
-        languages: [
-            "JavaScript",
-            "Python",
-            "Java",
-            "C++",
-            "Dart"
-        ],
-
-        web: [
-            "HTML",
-            "CSS",
-            "Bootstrap"
-        ],
-
-        tools: [
-            "Git",
-            "GitHub",
-            "Vercel",
-            "VS Code",
-            "Android Studio"
-        ]
-    },
-
-    hobbies: [
-        "Anime",
-        "Design",
-        "Exploring Technology",
-        "Coffee ☕"
-    ]
-};
-
-console.log("Keep learning. Keep building.");
-```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A7ADB&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my GitHub profile! ⭐</i>
-</p>
+</div>
 ```
