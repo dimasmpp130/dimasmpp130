@@ -77,12 +77,12 @@ Some areas I work with:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dimasmpp130&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=dimasmpp130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
     height="165"
     alt="Dimas GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmpp130&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmpp130&layout=compact&langs_count=8&hide_border=true&theme=transparent"
     height="165"
     alt="Top Languages"
   />
