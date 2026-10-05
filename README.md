@@ -74,11 +74,6 @@ Some areas I work with:
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=dimasmpp130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-    height="165"
-    alt="Dimas GitHub Stats"
-  />
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmpp130&layout=compact&langs_count=8&hide_border=true&theme=transparent"
     height="165"
     alt="Top Languages"
