@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  Hi, I'm Dimas 👋
+  Hi, I'm Dimzz 👋
 </h1>
 
 <p align="center">
-  <strong>Web Developer • Android Developer • Tech Enthusiast</strong>
+  <strong>Web Developer • Newbie Not Sesepuh • Tech Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -24,9 +24,8 @@ I'm a developer from **Indonesia 🇮🇩** who enjoys building websites, applic
 
 I'm interested in exploring new technologies, creating practical projects, and continuously improving my development skills.
 
-* 💻 Focused on **Web & Android Development**
+* 💻 Focused on **Web Development**
 * 🌐 Interested in **Frontend Development**
-* 🔐 Exploring **Cyber Security**
 * 🤖 Interested in **Artificial Intelligence**
 * 📱 Building lightweight and practical applications
 * 🎨 Enjoy designing modern and user-friendly interfaces
@@ -64,12 +63,10 @@ I enjoy creating projects that are simple, useful, and easy to use.
 Some areas I work with:
 
 * 🌐 Web Applications
-* 📱 Android Applications
 * 🔗 Web Tools & Utilities
 * 🎨 Modern UI Interfaces
 * ⚡ Lightweight Websites
 * 🧩 API-based Projects
-* 🔐 Security & Technology Experiments
 
 ---
 
@@ -77,7 +74,7 @@ Some areas I work with:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dimasmpp130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats-fast.vercel.app/api?username=dimasmpp130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
     height="165"
     alt="Dimas GitHub Stats"
   />
@@ -96,12 +93,12 @@ Some areas I work with:
   <a href="https://github.com/dimasmpp130">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://youtube.com/">
+  <a href="https://youtube.com/@DimasMpp">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://t.me/USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
   <a href="https://wa.me/62831">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
@@ -114,5 +111,5 @@ Some areas I work with:
 </p>
 
 <p align="center">
-  Made with ☕ by <strong>Dimas</strong>
+  Made with ☕ by <strong>DIMZ</strong>
 </p>
