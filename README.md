@@ -61,18 +61,6 @@ Some areas I work with:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmpp130&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
